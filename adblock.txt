@@ -9,7 +9,7 @@ www.curseforge.com##DIV[id="cdm-zone-01"][class="up-show"]
 wowhead.com##DIV[class="blocks"]
 wowhead.com##DIV[class="sidebar-wrapper"]
 jd.com##DIV[id="J_promotional-top"]
-bilibili.com##DIV[id="reco_list"]>div.rec-list>div:not([class]), div.bilibili-player-video-popup, div.bilibili-player-video-inner, div.bpx-player-popup, div.bpx-player-popup-dm-shrink.bpx-player-popup-dm-shrink-show, div#sidebar-vm, div.rec-list>div.video-page-special-card-small, div.bili-guide-all.bili-guide.bili-show
+bilibili.com##DIV[id="reco_list"]>div.rec-list>div:not([class]), div.bilibili-player-video-popup, div.bilibili-player-video-inner, div.bpx-player-popup, div.bpx-player-popup-dm-shrink.bpx-player-popup-dm-shrink-show, div#sidebar-vm, div.rec-list>div.video-page-special-card-small, div.bpx-player-cmd-dm-inside>div.bili-show
 wow.gamepedia.com##DIV[id="top_leaderboard"]
 wow.gamepedia.com##DIV[id="bottom_leaderboard"]
 webstatic.mihoyo.com##DIV[class="bbs-qr"]
