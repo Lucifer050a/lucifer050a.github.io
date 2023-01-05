@@ -29,7 +29,7 @@ alternativeto.net##div[style="bottom: 0px; left: 0px; position: fixed; width: 10
 apple.com.cn##div[class="adv-wrapper"]
 music.youtube.com###ytmusic-mealbar-promo-renderer
 www.biquge.biz##div.box_con>div[style="text-align: center"]
-94bxwx.com, soxscc.net, bxwxue.com, 2kxsw.com, 9bzw.org, 75zw.com, yanmoxuanxiaoshuo.com, zyxsw.org, zhuiyo.com, 7huan.org##ul.layui-fixbar, div.tui, body>form[action$="/search.html"], div.pager+div[style="margin:0;padding:0;outline:0"], body>form[action$="/search/"]
+94bxwx.com, m.soduw.net, soxscc.net, bxwxue.com, 2kxsw.com, 9bzw.org, 75zw.com, yanmoxuanxiaoshuo.com, zyxsw.org, zhuiyo.com, 7huan.org##ul.layui-fixbar, div.tui, body>form[action$="/search.html"], div.pager+div[style="margin:0;padding:0;outline:0"], body>form[action$="/search/"]
 gushiwen.cn##div[id^="threeWeixin"]
 6996ap.buzz##body>.pure-g.w90, main>.pure-g.w90
 apple.com.cn##html {--global-nav-ad-bar-height:0px !important;}
