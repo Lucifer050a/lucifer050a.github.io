@@ -9,7 +9,7 @@ www.curseforge.com##DIV[id="cdm-zone-01"][class="up-show"]
 wowhead.com##DIV[class="blocks"]
 wowhead.com##DIV[class="sidebar-wrapper"]
 jd.com##DIV[id="J_promotional-top"]
-bilibili.com##DIV[id="reco_list"]>div.rec-list>div:not([class]), div.bilibili-player-video-popup, div.bilibili-player-video-inner, div.bpx-player-popup, div.bpx-player-popup-dm-shrink.bpx-player-popup-dm-shrink-show, div#sidebar-vm, div.rec-list>div.video-page-special-card-small, div.bpx-player-cmd-dm-inside>div.bili-show
+bilibili.com##div.adblock-tips, div.video-page-game-card-small, DIV[id="reco_list"]>div.rec-list>div:not([class]), div.bilibili-player-video-popup, div.bilibili-player-video-inner, div.bpx-player-popup, div.bpx-player-popup-dm-shrink.bpx-player-popup-dm-shrink-show, div#sidebar-vm, div.rec-list>div.video-page-special-card-small, div.bpx-player-cmd-dm-inside>div.bili-show
 wow.gamepedia.com##DIV[id="top_leaderboard"]
 wow.gamepedia.com##DIV[id="bottom_leaderboard"]
 webstatic.mihoyo.com##DIV[class="bbs-qr"]
@@ -21,7 +21,7 @@ pornhub.com##div[class="premiumPromoBannerWrapper"]
 @@https://im.dingtalk.com$document
 totalcsgo.com##DIV[class="mvxepoy0c51e"]
 genshin.honeyhunterworld.com##DIV.code-block.code-block-1, DIV.language_menu
-hltv.org##div.featured-matches-top, div#betting, div.csgofastbetting
+hltv.org##div[data-ad-id]
 hltv.org##div[class^="regional-"][class$="-list"], div.right2Col>div[class^="column-triple-"], div.featured-match-ASdvuasdr123Gazx-container, div.kgN8P9bvyb2EqDJR, a.streak-ASdvuasdr123Gazx-link, div.yabo-firstcol-box, div.gg-firstcol-box, div.ggbe-firstcol-box
 hltv.org##a>img[width="300"][height="120"], aside>div[class="a-reset"], div.match-page>div.gtSmartphone-only, div.section-spacer+div.section-spacer
 e-hentai.org###eventpane
@@ -29,8 +29,11 @@ alternativeto.net##div[style="bottom: 0px; left: 0px; position: fixed; width: 10
 apple.com.cn##div[class="adv-wrapper"]
 music.youtube.com###ytmusic-mealbar-promo-renderer
 www.biquge.biz##div.box_con>div[style="text-align: center"]
-94bxwx.com, m.soduw.net, soxscc.net, bxwxue.com, 2kxsw.com, 9bzw.org, 75zw.com, yanmoxuanxiaoshuo.com, zyxsw.org, zhuiyo.com, 7huan.org##ul.layui-fixbar, div.tui, body>form[action$="/search.html"], div.pager+div[style="margin:0;padding:0;outline:0"], body>form[action$="/search/"]
+94bxwx.com, m.soduw.net, soxscc.net, bxwxue.com, 2kxsw.com, 9bzw.org, 75zwcom.com, yanmoxuanxiaoshuo.com, zyxsw.org, zhuiyo.com, 7huan.org, 62xs.com##ul.layui-fixbar, div.tui, body>form[action$="/search.html"], div.pager+div[style="margin:0;padding:0;outline:0"], body>form[action$="/search/"]
 gushiwen.cn##div[id^="threeWeixin"]
 6996ap.buzz##body>.pure-g.w90, main>.pure-g.w90
 apple.com.cn##html {--global-nav-ad-bar-height:0px !important;}
+crxs.me##body>div.push-top, div.slider-ad
 ||cdn.jwplayer.com
+wikipedia.org###siteNotice
+m.lanwen.org, m.zhangyuxs.com##div.box-wrap.wrap, .nav-next-page
